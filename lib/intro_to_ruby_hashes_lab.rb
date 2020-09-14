@@ -2,9 +2,8 @@ def new_hash
   {}
 end
 
-def my_hash {
-  dog: Callie
-}
+def my_hash 
+  {dog: Callie}
 end
 
 def pioneer
